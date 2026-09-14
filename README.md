@@ -1,0 +1,2 @@
+
+# my-obsidian-starter-template
